@@ -1,6 +1,6 @@
 # Raspagem de Dados Web
 
-Uma tentativa de criação de um código para extrair informações de um site web: nome e descrição das empresas listas no site.
+Criação de um código para extrair informações de um site web: nome e descrição das empresas listas no site.
 
 Este projeto usou as seguintes bibliotecas: selenium.webdriver, time, openpyxl e urlib
 
