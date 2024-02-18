@@ -15,7 +15,7 @@ options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=options, service=Service(ChromeDriverManager().install()))
 
 #chamando o site e aguardando montagem da página
-driver.get('https://www.techireland.org/companies')
+driver.get('https://www.')
 driver.maximize_window()
 
 while len(driver.find_elements('xpath', '/html/body/div[1]/div[2]/div/div/div[2]/div/div/ul/li[7]/a')) < 1:
