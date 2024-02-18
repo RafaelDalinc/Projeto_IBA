@@ -1,6 +1,6 @@
-# Projeto_IBA
+# Raspagem de Dados Web
 
-Uma tentiva e criação de um código para extrair informações do site techireland.com as informações de nome e descrição das empresas listas no site.
+Uma tentiva e criação de um código para extrair informações de um site web as informações de nome e descrição das empresas listas no site.
 
 Este projeto usou as seguintes bibliotecas: selenium.webdriver, time, openpyxl e urlib
 
